@@ -52,7 +52,7 @@ $time = $sunset;
 
 echo  date("H:i:s", $time);
 
-echo '<a href="index.php">Home</a>';
+echo '<br><br><a href="index.php">Home</a>';
 
 //Closes a cURL session and frees all resources. 
 curl_close($ch);     
