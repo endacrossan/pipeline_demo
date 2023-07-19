@@ -4,6 +4,6 @@
 </head>
 <body>
 <?php echo '<p>Weather App - quick test for PHP app.</p>'; ?>
-<?php echo '<br><a href="weather.php">See Weather</a>'; ?>
+<!-- <?php echo '<br><a href="weather.php">See Weather</a>'; ?> -->
 </body>
 </html>
